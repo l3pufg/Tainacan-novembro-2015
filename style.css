@@ -1,9 +1,10 @@
 /*
-Theme Name: Social DB
-Theme URI: https://wordpress.org/themes/twentyfifteen
-Author: the WordPress team
-Author URI: https://wordpress.org/
-Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Theme Name: Tainacan
+Theme URI: https://tainacan.gi.fic.ufg.br/
+Github Theme URI: https://github.com/l3pufg/Tainacan3.0
+Author: Tainacan team
+Author URI: https://tainacan.gi.fic.ufg.br/
+Description: Descrição aqui.
 Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,6 +14,7 @@ Text Domain: twentyfifteen
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
 
 #div_central{
     position: relative;
